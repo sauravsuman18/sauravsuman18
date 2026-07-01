@@ -26,7 +26,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,bash,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,linux,github,mysql" />
 </p>
 
 ### Cybersecurity & Tools
