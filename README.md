@@ -1,59 +1,131 @@
-# Hi, I'm Saurav Suman 👋
+<h1 align="center">Hi 👋, I'm Saurav Suman</h1>
+<h3 align="center">Cybersecurity Enthusiast | Python Developer | B.Tech CSE Student</h3>
 
-Computer Science Engineering student with a focus on networking, security, and systems-level Python tools. I enjoy building things that dig into how systems actually work under the hood — from packet-level network analysis to memory monitoring.
-
-📍 Arrah, Bihar, India
-🎓 B.Tech CSE, Lovely Professional University (2023 – Present)
-
----
-
-### 🚀 Current Projects
-
-- **[Network Packet Sniffer](https://github.com/sauravsuman18/network_sniffer)** — Real-time TCP/IP packet sniffer built with Python and Scapy; inspects TCP, UDP, ICMP, and HTTP traffic and has processed 500+ packets in testing to extract IP/port/protocol-level data.
-- **[Password Strength Analyzer](https://github.com/sauravsuman18/Password-Strength-Analyzer)** — Password auditing tool using entropy scoring, rule-based checks, and breached-data comparison, with regex pattern detection and secure hashing for weak-credential identification.
-- **[Memory Allocation Tracker](https://github.com/sauravsuman18/Memory-Allocation-Tracker)** — Real-time memory monitoring tool with an interactive GUI (CustomTkinter) similar to Windows Task Manager, with live process tracking and resource analysis.
+<p align="center">
+  <a href="https://github.com/sauravsuman18">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;Network+Security+Learner;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Skills & Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-**Tools & Platforms**
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Other**
-Problem-Solving · Team Player · Time Management · Adaptability
+- 🎓 B.Tech Computer Science Engineering Student
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🐍 Python Developer
+- 🌐 Interested in Network Security & Packet Analysis
+- 💡 Love solving real-world security problems
+- 📚 Currently learning Penetration Testing & SOC Operations
+- ⚡ Fun Fact: I enjoy gaming and building security tools.
 
 ---
 
-### 📜 Certificates
+## 🚀 Tech Stack
 
-- Privacy and Security in Online Social Media — NPTEL (Apr 2025)
-- Digital Systems: From Logic Gates to Processors — Coursera (Oct 2025)
-- The Bits and Bytes of Computer Networking — Google (Sep 2024)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,bash,mysql" />
+</p>
+
+### Cybersecurity & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode" />
+</p>
+
+<p>
+💻 Wireshark • VMware • Scapy • Regex • psutil • Socket Programming
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravsuman18&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsuman18&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sauravsuman18)
+### 🔍 Network Packet Sniffer
+- Captures real-time network packets
+- Supports TCP, UDP, ICMP & HTTP
+- Built using Python & Scapy
 
 ---
 
-### 🔗 Connect With Me
+### 🔐 Password Strength Analyzer
+- Password strength evaluation
+- Regex-based validation
+- HaveIBeenPwned API integration
+- Security recommendations
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurav-suman18)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sauravsuman18)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sauravsuman.cse27@gmail.com)
+---
+
+### 📊 Memory Allocation Tracker
+- Windows Task Manager inspired UI
+- Live CPU & Memory Monitoring
+- Built with psutil & CustomTkinter
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravsuman18&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=sauravsuman18&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsuman18&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sauravsuman18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Penetration Testing
+- Network Security
+- Linux
+- Python Automation
+- Security Operations Center (SOC)
+- Web Security
+
+---
+
+## 📜 Certifications
+
+- Privacy and Security in Online Social Media (NPTEL)
+- Digital Systems: From Logic Gates to Processors (Coursera)
+- The Bits and Bytes of Computer Networking (Google)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/saurav-suman18">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sauravsuman.cse27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sauravsuman18">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
